@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRadio</string>
+    <string name="txt_play">PLAY</string>
+    <string name="txt_stop">STOP</string>
+    <string name="msg_loading">LOADING...</string>
+    <string name="txt_pause">PAUSE</string>
+</resources>
